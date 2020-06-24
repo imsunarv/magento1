@@ -1,0 +1,6 @@
+[2020-06-02 09:16:40] main.ERROR: SQLSTATE[HY000] [2002] No such file or directory [] []
+[2020-06-02 09:18:23] main.CRITICAL: Directory "/var/www/html/vodacom/pub/media/captcha" cannot be created Warning!mkdir(): Permission denied [] []
+[2020-06-03 09:24:19] main.CRITICAL: Directory "/var/www/html/vodacom/pub/media/captcha" cannot be created Warning!mkdir(): Permission denied [] []
+[2020-06-03 09:24:35] main.CRITICAL: Directory "/var/www/html/vodacom/pub/media/captcha" cannot be created Warning!mkdir(): Permission denied [] []
+[2020-06-03 09:25:06] main.CRITICAL: Directory "/var/www/html/vodacom/pub/media/captcha" cannot be created Warning!mkdir(): Permission denied [] []
+[2020-06-03 09:31:41] main.CRITICAL: Directory "/var/www/html/vodacom/pub/media/captcha" cannot be created Warning!mkdir(): Permission denied [] []
